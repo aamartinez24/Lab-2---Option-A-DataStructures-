@@ -1,3 +1,4 @@
+# CS2302, Airam A Martinez, Lab2(Option A), Diego Aguirre, Gerardo Barraza, 9/24/2019
 class Node(object):
    item = -1
    next = None
